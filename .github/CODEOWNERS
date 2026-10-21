@@ -1,0 +1,22 @@
+# Studio-owned paths: changes here need a review from the studio.
+# Pages, components, styles and images are free for the site owner.
+
+/src/collections/          @hellowebflove-cpu
+/src/Header/config.ts      @hellowebflove-cpu
+/src/Footer/config.ts      @hellowebflove-cpu
+/src/fields/               @hellowebflove-cpu
+/src/payload.config.ts     @hellowebflove-cpu
+/src/migrations/           @hellowebflove-cpu
+/src/app/(payload)/        @hellowebflove-cpu
+/src/endpoints/            @hellowebflove-cpu
+/src/hooks/                @hellowebflove-cpu
+/src/access/               @hellowebflove-cpu
+/src/plugins/              @hellowebflove-cpu
+/src/utilities/            @hellowebflove-cpu
+/next.config.ts            @hellowebflove-cpu
+/package.json              @hellowebflove-cpu
+/package-lock.json         @hellowebflove-cpu
+/vercel.json               @hellowebflove-cpu
+/.github/                  @hellowebflove-cpu
+/.claude/                  @hellowebflove-cpu
+/CLAUDE.md                 @hellowebflove-cpu
