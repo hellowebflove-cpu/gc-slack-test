@@ -4,7 +4,7 @@ import React from 'react'
 export const AnnouncementBar: React.FC = () => {
   return (
     <div className="bg-black text-white text-center text-sm py-2 px-4">
-      Free shipping on orders over $75
+      Free shipping on all orders this week
     </div>
   )
 }
