@@ -1,22 +1,22 @@
-# Studio-owned paths: changes here need a review from the studio.
+# Studio-owned paths: changes here need a review from the studio (test reviewer: @Lilly0990).
 # Pages, components, styles and images are free for the site owner.
 
-/src/collections/          @hellowebflove-cpu
-/src/Header/config.ts      @hellowebflove-cpu
-/src/Footer/config.ts      @hellowebflove-cpu
-/src/fields/               @hellowebflove-cpu
-/src/payload.config.ts     @hellowebflove-cpu
-/src/migrations/           @hellowebflove-cpu
-/src/app/(payload)/        @hellowebflove-cpu
-/src/endpoints/            @hellowebflove-cpu
-/src/hooks/                @hellowebflove-cpu
-/src/access/               @hellowebflove-cpu
-/src/plugins/              @hellowebflove-cpu
-/src/utilities/            @hellowebflove-cpu
-/next.config.ts            @hellowebflove-cpu
-/package.json              @hellowebflove-cpu
-/package-lock.json         @hellowebflove-cpu
-/vercel.json               @hellowebflove-cpu
-/.github/                  @hellowebflove-cpu
-/.claude/                  @hellowebflove-cpu
-/CLAUDE.md                 @hellowebflove-cpu
+/src/collections/          @Lilly0990
+/src/Header/config.ts      @Lilly0990
+/src/Footer/config.ts      @Lilly0990
+/src/fields/               @Lilly0990
+/src/payload.config.ts     @Lilly0990
+/src/migrations/           @Lilly0990
+/src/app/(payload)/        @Lilly0990
+/src/endpoints/            @Lilly0990
+/src/hooks/                @Lilly0990
+/src/access/               @Lilly0990
+/src/plugins/              @Lilly0990
+/src/utilities/            @Lilly0990
+/next.config.ts            @Lilly0990
+/package.json              @Lilly0990
+/package-lock.json         @Lilly0990
+/vercel.json               @Lilly0990
+/.github/                  @Lilly0990
+/.claude/                  @Lilly0990
+/CLAUDE.md                 @Lilly0990
