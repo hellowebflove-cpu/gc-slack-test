@@ -13,7 +13,7 @@ export default function AboutPage() {
       <div className="prose dark:prose-invert max-w-2xl">
         <p>
           Ground Test Store makes small-batch clothing in limited capsules. Every piece is cut and
-          sewn in our studio.
+          sewn in our studio. We ship worldwide within 3–5 business days.
         </p>
         <p>We release a new capsule every season. When a capsule sells out, it does not come back.</p>
         <h2>Contact</h2>
