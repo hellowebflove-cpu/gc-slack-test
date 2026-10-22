@@ -15,6 +15,7 @@ export default function AboutPage() {
           Ground Test Store makes small-batch clothing in limited capsules. Every piece is cut and
           sewn in our studio.
         </p>
+        <p>We ship worldwide within 3–5 business days.</p>
         <p>We release a new capsule every season. When a capsule sells out, it does not come back.</p>
         <h2>Contact</h2>
         <p>
