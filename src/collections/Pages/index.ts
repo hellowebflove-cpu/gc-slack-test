@@ -1,3 +1,4 @@
+// test: CODEOWNERS block check (do not merge)
 import type { CollectionConfig } from 'payload'
 
 import { authenticated } from '../../access/authenticated'
